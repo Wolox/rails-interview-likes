@@ -1,4 +1,4 @@
-Rails Interview <> Likes Exercise
+# Rails Interview <> Likes Exercise
 
 ## Description
 
