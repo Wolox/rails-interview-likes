@@ -1,11 +1,5 @@
 # Rails Interview <> Likes Exercise
 
-## Description
-
-```
-  TODO: ADD EXCERCISE DESCRIPTION
-```
-
 ### 1- Installing Ruby
 
 - Clone the repository by running `git clone git@github.com:Wolox/rails-interview-likes.git`
