@@ -91,6 +91,6 @@ The `.env` will be ignored by `git` so it won't be pushed into the repository, t
 
 ## About
 
-This project is maintained by [Esteban Guido Pintos](https://github.com/epintos) and it is written by [Wolox](http://www.wolox.com.ar).
+This project is maintained by [Nicolas Zarewsky](https://github.com/nicozar95) and [Federico Esteban](https://github.com/fedeest) and it is written by [Wolox](http://www.wolox.com.ar).
 
 ![Wolox](https://raw.githubusercontent.com/Wolox/press-kit/master/logos/logo_banner.png)
